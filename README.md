@@ -6,7 +6,7 @@ TODOs:
 3 remove the last 2 "unnamed" columns
 4 check each column for uniqueness and unify names like countries etc.
   type, country, sex, activity, age, fatality, time, species
-
+5 type, sex, age, fatal, dropped all cols from source
 
 
 
