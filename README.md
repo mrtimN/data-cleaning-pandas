@@ -16,5 +16,5 @@ Business Case
 Hypothesis
 1 Australia is the location with the most variety of sharks. 
 2 Summer is the time, where people get attacked most. 
-3 Most shark attacks are provoked by men. 
+3 Most shark attacks provoked by men, are fatal. 
 
