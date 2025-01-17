@@ -1,4 +1,7 @@
 # data-cleaning-pandas
+
+Link to presentation: https://www.canva.com/design/DAGcSDXHa90/JZmVLAYjCJJGc1VKTxLsaw/edit
+
 TODOs:
 
 1 Replace " " with "_" in columns names
@@ -8,13 +11,8 @@ TODOs:
   type, country, sex, activity, age, fatality, time, species
 5 type, sex, age, fatal, dropped all cols from source
 
-
-
-Business Case
-
-
 Hypothesis
 1 Australia is the location with the most variety of sharks. 
-2 Diving is the activity, where people get attacked most. 
+2 Surfing is the activity, where people get attacked most. 
 3 Most shark attacks provoked by men, are fatal. 
 
